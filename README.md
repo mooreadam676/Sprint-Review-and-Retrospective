@@ -1,12 +1,12 @@
 # Sprint-Review-and-Retrospective
-Interpreting User Needs and User Stories
+Interpreting User Needs Through User Stories
 
-I interpret user needs by identifying what the user is trying to accomplish and translating those goals into clear, actionable requirements. Creating user stories helps by framing features from the user’s perspective and keeping development focused on delivering value rather than just completing technical tasks. User stories also make it easier to prioritize work, define acceptance criteria, and verify that each feature meets user expectations.
+In Agile development, I interpret user needs by collaborating with stakeholders and translating their requirements into user stories that clearly express value from the user’s perspective. User stories help define what the user wants, why they want it, and how success will be measured through acceptance criteria. This approach ensures development remains user-focused and allows the team to deliver working software incrementally while adapting to feedback.
 
-My Approach to Developing Programs and Agile Practices
+Agile Approach to Program Development
 
-I approach program development iteratively by building small, functional increments and refining them based on feedback. I plan to continue using Agile and Scrum practices such as sprint planning, backlog refinement, daily standups, sprint reviews, and retrospectives. These processes help manage changing requirements, encourage continuous improvement, and keep development aligned with project goals.
+I approach program development using an iterative and incremental Agile mindset. By working in short sprints, I can deliver small, functional pieces of software, gather feedback, and adjust priorities as needed. Scrum practices such as sprint planning, backlog refinement, daily standups, sprint reviews, and retrospectives help maintain transparency, encourage continuous improvement, and ensure the team is always aligned on sprint goals and product direction.
 
-Being a Good Team Member in Software Development
+Being an Effective Scrum Team Member
 
-Being a good team member means communicating clearly, taking responsibility for assigned work, and supporting the overall goals of the team. It also involves being open to feedback, collaborating effectively, and addressing issues early to avoid delays. Consistent participation and a willingness to improve both individually and as a team contribute to successful software development.
+Being a strong team member in a Scrum environment means embracing collaboration, accountability, and open communication. I contribute by actively participating in Scrum events, keeping my work transparent, and addressing blockers early. Supporting team goals, being open to feedback, and continuously improving both technical and teamwork skills are essential to delivering high-quality software in an Agile environment.
